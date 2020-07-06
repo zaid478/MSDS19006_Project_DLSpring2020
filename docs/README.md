@@ -5,6 +5,9 @@ The code is majorly taken from [this](https://github.com/mahmoodlab/CLAM) reposi
 ## Dataset
 The dataset can be found [here](https://warwick.ac.uk/fac/sci/dcs/research/tia/data/crchistolabelednucleihe/).
 
+## Trained Models
+The trained model checkpoints can be found in the results folder for both of the experiments performed.
+
 ### Results
 
 We have done two experiments on the dataset. Below are the train loss curves for both of them.
