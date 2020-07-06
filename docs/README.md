@@ -7,5 +7,4 @@ The dataset can be found [here](https://warwick.ac.uk/fac/sci/dcs/research/tia/d
 
 ### Results
 
-![Test Image 4](https://github.com/zaid478/MSDS19006_Project_DLSpring2020/plots/v1/train_class_0_acc.svg)
-
+![alt text](https://github.com/zaid478/MSDS19006_Project_DLSpring2020/blob/master/plots/v1/train_class_0_acc.svg)
