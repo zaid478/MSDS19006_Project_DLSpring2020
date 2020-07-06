@@ -1,0 +1,3 @@
+,train,val,test
+normal,27,7,7
+cancer,27,8,8

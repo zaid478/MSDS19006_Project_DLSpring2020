@@ -1,0 +1,1 @@
+{'task': 'colon_cancer', 'split': 'test', 'save_dir': './eval_results/EVAL_colon_clam_s1_cv', 'models_dir': 'results/colon_cancer_v1_s1', 'model_type': 'clam', 'drop_out': True, 'model_size': 'small'}
